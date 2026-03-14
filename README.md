@@ -1,6 +1,6 @@
-> # **🚀 PRODIGY_GA_05 — Neural Style Transfer using TensorFlow Hub**
+> # **Neural Style Transfer using TensorFlow Hub**
 
-This repository contains **Task 5: Neural Style Transfer** Project as part of my **Generative AI Internship** at **Prodigy Infotech**, where I applied the artistic style of a painting to the content of another image using a pre-trained model from TensorFlow Hub.
+Artistic style of a painting to the content of another image using a pre-trained model from TensorFlow Hub.
 
 ### **💡 Project Overview**
 
